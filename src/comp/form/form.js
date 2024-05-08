@@ -171,9 +171,6 @@ const Premium365 = ({ rem_form })=>{
 
     </div>
 
-                        
-
-
     </article></Fragment>)
 };
 
